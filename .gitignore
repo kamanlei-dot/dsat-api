@@ -1,0 +1,15 @@
+# 虛擬環境
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Playwright 快取（很大）
+.playwright/
+
+# 系統檔案
+.DS_Store
+*.log
+
+# 環境變數
+.env
